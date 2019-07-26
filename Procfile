@@ -1,1 +1,1 @@
-web: gunicorn gipsomeApp.wsgi
+web: gunicorn gipsomeSyndoma.wsgi --log-file -
